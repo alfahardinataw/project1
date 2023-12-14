@@ -1,6 +1,6 @@
 FROM alpine 
 
-LABEL Maintainer- "Alfa Hardinata"
+LABEL Maintainer-"alfahardinataw"
 
 WORKDIR /dataku
 
